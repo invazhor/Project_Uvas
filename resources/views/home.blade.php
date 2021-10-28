@@ -15,7 +15,7 @@
                     @endif
 
                     {{ __('You are logged in!') }}
-                    hola loco!!!
+                    hola loco como estas!!!
                 </div>
             </div>
         </div>
